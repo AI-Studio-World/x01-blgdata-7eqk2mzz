@@ -1,22 +1,13 @@
 [
   {
-    "id": "ai-startup-2025",
-    "title": "How AI Will Shape Startups in 2025",
+    "id": "ai-startups-2025",
+    "title": "How AI is Revolutionizing Startups in 2025",
     "author": "Jane Doe",
-    "date": "2025-06-01",
-    "tags": ["AI", "Startups", "Future"],
+    "date": "2025-06-05",
+    "tags": ["AI", "Startups", "Innovation"],
     "category": "Technology",
-    "thumbnail": "https://example.com/images/ai-startup-thumb.jpg",
-    "githubPath": "https://raw.githubusercontent.com/your-username/your-repo/main/blogs/ai-startup-2025.json"
-  },
-  {
-    "id": "quantum-breakthrough",
-    "title": "Quantum Computing Breakthroughs in 2025",
-    "author": "John Qubit",
-    "date": "2025-05-22",
-    "tags": ["Quantum", "Computing"],
-    "category": "Science",
-    "thumbnail": "https://example.com/images/quantum-thumb.jpg",
-    "githubPath": "https://raw.githubusercontent.com/your-username/your-repo/main/blogs/quantum-breakthrough.json"
+    "image": "https://x01global.com/images/ai-blog.jpg",
+    "description": "Explore how AI is empowering startups to move faster, smarter, and more efficiently than ever.",
+    "contentPath": "https://raw.githubusercontent.com/AI-Studio-World/x01-blgdata-7eqk2mzz/main/blogs/ai-startups-2025.json"
   }
 ]
