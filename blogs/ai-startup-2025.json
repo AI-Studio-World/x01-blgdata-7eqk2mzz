@@ -1,4 +1,12 @@
 {
+  "id": "ai-startup-2025",
+  "title": "AI Startup 2025",
+  "description": "An insightful blog about AI startups and their future.",
+  "author": "x01 Global Team",
+  "date": "2025-06-01",
+  "category": "Technology",
+  "tags": ["AI", "Startup", "Innovation"],
+  "image": "https://ai-studio-world.github.io/x01-blgdata-7eqk2mzz/images/ai-startup.jpg",
   "content": [
     {
       "type": "heading",
