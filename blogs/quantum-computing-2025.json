@@ -1,0 +1,21 @@
+{
+  "content": [
+    {
+      "type": "heading",
+      "text": "Quantum Computing Advances"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quantum computers hold the potential to solve problems beyond classical computers."
+    },
+    {
+      "type": "image",
+      "src": "https://ai-studio-world.github.io/x01-blgdata-7eqk2mzz/images/quantum-chip.jpg",
+      "alt": "Quantum computer chip"
+    },
+    {
+      "type": "paragraph",
+      "text": "Research in quantum error correction and qubit coherence is accelerating rapidly."
+    }
+  ]
+}
