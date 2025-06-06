@@ -1,13 +1,24 @@
 [
   {
-    "id": "ai-startups-2025",
-    "title": "How AI is Revolutionizing Startups in 2025",
-    "author": "Jane Doe",
-    "date": "2025-06-05",
-    "tags": ["AI", "Startups", "Innovation"],
+    "id": "ai-startup-2025",
+    "title": "AI Startup 2025",
+    "description": "An insightful blog about AI startups and their future.",
+    "author": "John Doe",
+    "date": "2025-06-01",
     "category": "Technology",
-    "image": "https://x01global.com/images/ai-blog.jpg",
-    "description": "Explore how AI is empowering startups to move faster, smarter, and more efficiently than ever.",
-    "contentPath": "https://raw.githubusercontent.com/AI-Studio-World/x01-blgdata-7eqk2mzz/main/blogs/ai-startups-2025.json"
+    "tags": ["AI", "Startup", "Innovation"],
+    "image": "https://ai-studio-world.github.io/x01-blgdata-7eqk2mzz/images/ai-startup.jpg",
+    "contentPath": "https://ai-studio-world.github.io/x01-blgdata-7eqk2mzz/blogs/ai-startup-2025.json"
+  },
+  {
+    "id": "quantum-computing-2025",
+    "title": "Quantum Computing Breakthroughs",
+    "description": "Exploring the latest quantum computing technologies.",
+    "author": "Jane Smith",
+    "date": "2025-05-15",
+    "category": "Science",
+    "tags": ["Quantum", "Computing", "Technology"],
+    "image": "https://ai-studio-world.github.io/x01-blgdata-7eqk2mzz/images/quantum-computing.jpg",
+    "contentPath": "https://ai-studio-world.github.io/x01-blgdata-7eqk2mzz/blogs/quantum-computing-2025.json"
   }
 ]
