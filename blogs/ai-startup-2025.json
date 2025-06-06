@@ -1,34 +1,26 @@
 {
-  "id": "ai-startup-2025",
-  "title": "AI Startups to Watch in 2025",
-  "description": "Explore the most promising AI startups shaping the future in 2025.",
-  "date": "2025-06-01",
-  "author": "X01 Team",
-  "category": "AI & Tech",
-  "tags": ["AI", "Startups", "2025", "Innovation"],
-  "image": "https://x01global.com/images/ai-startups.jpg",
   "content": [
     {
-      "type": "paragraph",
-      "text": "The year 2025 promises to be revolutionary for artificial intelligence startups."
-    },
-    {
       "type": "heading",
-      "text": "Top 3 AI Startups"
+      "text": "The Future of AI Startups"
     },
     {
       "type": "paragraph",
-      "text": "Here's a look at the most disruptive players in the AI space this year."
+      "text": "AI startups are rapidly transforming industries by leveraging machine learning and automation."
     },
     {
       "type": "image",
-      "src": "https://x01global.com/images/startup-graphic.jpg",
-      "alt": "AI Startups Illustration"
+      "src": "https://ai-studio-world.github.io/x01-blgdata-7eqk2mzz/images/ai-robot.jpg",
+      "alt": "AI robot concept"
+    },
+    {
+      "type": "paragraph",
+      "text": "Investors are increasingly interested in AI innovations, especially those with scalable applications."
     },
     {
       "type": "quote",
-      "text": "AI is not just the future — it's the now.",
-      "author": "Elon Musk"
+      "text": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay"
     }
   ]
 }
