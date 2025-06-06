@@ -1,26 +1,32 @@
 {
+  "title": "How AI is Revolutionizing Startups in 2025",
+  "description": "Explore how AI is empowering startups to move faster, smarter, and more efficiently than ever.",
+  "image": "https://x01global.com/images/ai-blog-banner.jpg",
+  "author": "Jane Doe",
+  "date": "2025-06-05",
+  "category": "Technology",
   "content": [
     {
       "type": "heading",
-      "text": "The AI Startup Boom"
+      "text": "AI & Startups — A Match Made in 2025"
     },
     {
       "type": "paragraph",
-      "text": "In 2025, startups are leveraging AI to automate workflows and enhance user experiences..."
+      "text": "In recent years, AI has rapidly transformed industries — but 2025 marks a tipping point..."
     },
     {
       "type": "image",
-      "src": "https://example.com/images/ai-growth-chart.jpg",
-      "alt": "AI growth chart"
+      "src": "https://x01global.com/images/ai-growth.jpg",
+      "alt": "AI growth illustration"
     },
     {
       "type": "quote",
-      "text": "AI won't replace you, but a person using AI will.",
+      "text": "AI won’t replace you, but a person using AI will.",
       "author": "Garry Kasparov"
     },
     {
       "type": "paragraph",
-      "text": "Tools like ChatGPT and Midjourney are becoming essential in product development..."
+      "text": "From automating tasks to generating creative content, AI tools are now core to most early-stage startups."
     }
   ]
 }
