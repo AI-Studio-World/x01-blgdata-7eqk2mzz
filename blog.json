@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ai-startup-2025",
+    "title": "How AI Will Shape Startups in 2025",
+    "author": "Jane Doe",
+    "date": "2025-06-01",
+    "tags": ["AI", "Startups", "Future"],
+    "category": "Technology",
+    "thumbnail": "https://example.com/images/ai-startup-thumb.jpg",
+    "githubPath": "https://raw.githubusercontent.com/your-username/your-repo/main/blogs/ai-startup-2025.json"
+  },
+  {
+    "id": "quantum-breakthrough",
+    "title": "Quantum Computing Breakthroughs in 2025",
+    "author": "John Qubit",
+    "date": "2025-05-22",
+    "tags": ["Quantum", "Computing"],
+    "category": "Science",
+    "thumbnail": "https://example.com/images/quantum-thumb.jpg",
+    "githubPath": "https://raw.githubusercontent.com/your-username/your-repo/main/blogs/quantum-breakthrough.json"
+  }
+]
