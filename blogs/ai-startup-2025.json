@@ -1,0 +1,26 @@
+{
+  "content": [
+    {
+      "type": "heading",
+      "text": "The AI Startup Boom"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2025, startups are leveraging AI to automate workflows and enhance user experiences..."
+    },
+    {
+      "type": "image",
+      "src": "https://example.com/images/ai-growth-chart.jpg",
+      "alt": "AI growth chart"
+    },
+    {
+      "type": "quote",
+      "text": "AI won't replace you, but a person using AI will.",
+      "author": "Garry Kasparov"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tools like ChatGPT and Midjourney are becoming essential in product development..."
+    }
+  ]
+}
